@@ -1,0 +1,27 @@
+{
+  "name": "reversi-websocket",
+  "version": "0.0.1",
+  "description": "This is a web app for the game reversi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resonating-homesh/Reversi-websocket.io.git"
+  },
+  "keywords": [
+    "reversi",
+    "websocket"
+  ],
+  "author": "Homesh Nimbarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resonating-homesh/Reversi-websocket.io/issues"
+  },
+  "homepage": "https://github.com/resonating-homesh/Reversi-websocket.io#readme",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^4.5.1"
+  }
+}
